@@ -1,6 +1,6 @@
 # DietSMART--A-Smart-Diet-Consultant-Project
-# MIS 6308.002 - Systems Analysis and Project Management 
-# Group Members: JESLIN WILSON GEOTOM AROUJE,  SHRADDHA HEMANT KADAM, SRIVIDYA VENKATARAMAN, MONISHA PRAKASH, SOURABH BODKHE
+MIS 6308.002 - Systems Analysis and Project Management 
+Group Members: JESLIN WILSON GEOTOM AROUJE,  SHRADDHA HEMANT KADAM, SRIVIDYA VENKATARAMAN, MONISHA PRAKASH, SOURABH BODKHE
 
 Summary:<break>
 • Designed an application providing accurate diet plan to customers at a minimal cost, speed and convenience
